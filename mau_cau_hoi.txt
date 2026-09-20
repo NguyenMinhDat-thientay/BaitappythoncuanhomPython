@@ -1,0 +1,29 @@
+MÔN: Lập trình Python
+CHỦ ĐỀ: Vòng lặp
+MỨC ĐỘ: Dễ
+CÂU: Vòng lặp while trong Python dừng lại khi nào?
+A. Khi điều kiện là False
+B. Khi gặp dấu chấm phẩy
+C. Không bao giờ dừng
+D. Khi biến đếm bằng 0
+ĐÁP ÁN: A
+
+MÔN: Lập trình Python
+CHỦ ĐỀ: Vòng lặp
+MỨC ĐỘ: Khó
+CÂU: Đoạn code sau in ra bao nhiêu dòng? for i in range(3): print(i)
+A. 2
+B. 3
+C. 4
+D. Lỗi cú pháp
+ĐÁP ÁN: B
+
+MÔN: Kinh tế vi mô
+CHỦ ĐỀ: Cung - Cầu
+MỨC ĐỘ: Khó
+CÂU: Yếu tố nào KHÔNG làm dịch chuyển đường cầu?
+A. Thu nhập người tiêu dùng
+B. Giá của chính hàng hóa đó
+C. Thị hiếu người tiêu dùng
+D. Giá hàng hóa liên quan
+ĐÁP ÁN: B
